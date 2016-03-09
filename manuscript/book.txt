@@ -1,4 +1,4 @@
 introduction.md
-rules.md
-techniques.md
-debugger.md
+how_to_use.md
+steps.md
+questions.md

@@ -9,7 +9,7 @@ This is the most important rule.  In order to learn any part of the system or it
 
 ## Where have you done something similar?  Are there any examples from our own code that we can use as models here?
 
-## How can be validate our assumptions?
+## How can be validate our assumptions and make sure that they are true?
 
 ## 
 
