@@ -16,7 +16,7 @@ Imagine you have a stack of firewood and a fire.  You know some of the firewood 
 
 ## Form a Hypothesis
 
-Forming a hypothesis allows you to crystalize what you already know (or think you know) and provides the embarkation point for whatever you are about to know.  This is the point where you read the documentation for whatever plugin or function that you are about to use.  You can make a brief note about how you expect it to work.  This is one of the most important steps, because it is going to frame all of our Minimum Viable Trials.
+Forming a hypothesis allows you to crystalize what you already know, or think you know, and provides the embarkation point for whatever you are about to know.  This is the point where you read the documentation for whatever plugin or function that you are about to use.  You can make a brief note about how you expect it to work.  This is one of the most important steps, because it is going to frame all of our Minimum Viable Trials.
 
 
 **Length:** 1-4 Sentences
