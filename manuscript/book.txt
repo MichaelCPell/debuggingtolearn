@@ -1,3 +1,4 @@
 introduction.md
 rules.md
-chapter2.txt
+techniques.md
+debugger.md
