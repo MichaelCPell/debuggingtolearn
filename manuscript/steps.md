@@ -1,4 +1,4 @@
-#  Debug to Learn: The Method
+# Debug to Learn: The Method
 
 ## Begin with the End in Mind
 
