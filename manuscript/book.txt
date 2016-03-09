@@ -1,2 +1,4 @@
-chapter1.txt
+rules.txt
 chapter2.txt
+
+Techniques
