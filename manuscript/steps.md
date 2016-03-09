@@ -21,7 +21,7 @@ Forming a hypothesis allows you to crystalize what you already know (or think yo
 
 **Length:** 1-4 Sentences
 
-## Minimum Viable Trials(MVT)
+## Minimum Viable Trials or MVT
 
 We live in the age where wisdom teaches us "do as little as you believe is possible and then seek feedback."  While at this point "Minimum Viable Whatever" might be a cliché, we will use it once again here as our primary unit of work.  The MVT is the least possible code you can write or incorporate in order to learn just a little bit more about the system or code that we are trying to understand.  
 
