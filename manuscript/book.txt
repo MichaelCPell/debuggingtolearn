@@ -1,4 +1,3 @@
-rules.txt
+introduction.md
+rules.md
 chapter2.txt
-
-Techniques
