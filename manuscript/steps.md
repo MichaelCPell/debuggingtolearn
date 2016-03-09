@@ -1,4 +1,4 @@
-# Techniques
+# The Debugging Method
 
 ## Begin with Your End in Mind
 
@@ -12,7 +12,7 @@ Imagine you have a stack of firewood and a fire.  You know some of the firewood 
 
 ## Form a Hypothesis
 
-Forming a hypothesis allows you to crystalize what you already know (or think you know) and provides the embarkation point for whatever you are about to know.  This is the point where you read the documentation for whatever plugin or function that you are about to use.  You can make a brief note about how you expect it to work.  This is one of the most important steps, because it is going to frame all of our Minimum Viable Experiments.
+Forming a hypothesis allows you to crystalize what you already know (or think you know) and provides the embarkation point for whatever you are about to know.  This is the point where you read the documentation for whatever plugin or function that you are about to use.  You can make a brief note about how you expect it to work.  This is one of the most important steps, because it is going to frame all of our Minimum Viable Experiments, however you should probably not 
 
 ## Minimum Viable Experiment(MVE)
 
@@ -21,15 +21,11 @@ We live in the age where wisdom teaches us "do as little as you believe is possi
 
 The object is to shrink your problem until you naturally understand what to do next, or you feel confident that you have some kind of idea as to what you can do next.
 
-## Start with 'puts'
-
-`puts` and `console.log` are useful for testing your assumptions.  As you should already know, we use them to print to the log or console.  They are the most primitive method of debugging and therefore the easiest to implement.  When you are thinking about how the system works, you are changing data in one way or another at each of the steps.  The more steps between the starting point and the behavior that you are expecting, the more places for your bug to live.  
-The success of each of these is an assumption until you have printed these values or return values to the console and can verify that what you think you know is in fact so.
-
-### Step 1: Test Every Assumption
+The MVE should:
+  *  be clearly testable
+  *  as small as possible
+  *  Test something that you do not already know.
 
 
-
-
-
-### Leave Breadcrumbs
+### 
+### Write a conclusion.  This is the 
