@@ -1,4 +1,0 @@
-introduction.md
-how_to_use.md
-steps.md
-questions.md
