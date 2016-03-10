@@ -21,8 +21,8 @@ Most people I know who are learning to code these days are learning either Ruby 
 
 ## The Scientific Method
 
-Everything that you will read in this book can be summed up simly as "Use the Scientific Method."  This method has been around for 100s of years by its current, formal name, and before that was considered common sense.
+Everything that you will read in this book can be summed up simply as "Use the Scientific Method."  This method has been around for 100s of years by its current, formal name, and before that was considered common sense.  However, easier said than done and that is why we are here.  The scientific method use improperly is just stabbing in the dark for answers.  Used systematically, it will reveal the knowledge you are looking for quite quickly with computers.
 
-## The Truth
+## You won't do this every time
 
 You will probably not use a formal method everytime you need to debug your code. Many of the techniques will become second-nature.  However, when you are really stuck, then that is the time to open the book once again and use the techniques that our forebears used to get us where we are today.
