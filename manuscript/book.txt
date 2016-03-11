@@ -1,2 +1,5 @@
 introduction.md
 steps.md
+questions.md
+antipatterns.md
+fizzbuzz.md
