@@ -1,5 +1,7 @@
 introduction.md
-steps.md
+theory.md
+practice.md
 questions.md
 antipatterns.md
+emotions.md
 fizzbuzz.md
