@@ -1,7 +1,13 @@
+preface.md
 introduction.md
+
+
 theory.md
+imperatives.md
+
 practice.md
 questions.md
 antipatterns.md
 emotions.md
 fizzbuzz.md
+cheatsheets.md

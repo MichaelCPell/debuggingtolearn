@@ -1,4 +1,6 @@
-# Applying the Scientific Method
+# The Scientific Method Idealized
+
+This section explains how using the scientific method would help us undertand our code in an ideal world where everything goes well.  This is what you should strive for, though I wholly acknowledge and warn you than it is almost never going to happen like this.  While the entire process running smoothly might be a pipedream, it is your job to make sure that you have done everything in your power to make your approach to problem solving as close to the process below as possible.
 
 ## State Your Goal
 
@@ -19,7 +21,7 @@ Two main points:
 
 ## Form a Hypothesis
 
-Forming a hypothesis allows you to crystalize what you already know, or think you know, and provides the embarkation point for whatever you are about to learn.  This is the point where you read the documentation for whatever plugin or function that you are about to use.  You can make a brief note about how you expect it to work.  This is one of the most important steps, because it is going to frame all of our Minimum Viable Trials.
+Forming a hypothesis allows you to crystalize what you already know, or think you know, and provides the embarkation point for whatever you are about to learn.  This is the point where you read the documentation for whatever plugin or function that you are about to use.  You can make a brief note about how you expect it to work.  Additionally, you can look to tutorials and blog posts to help you form the hypotheses that you are about to test.  This is one of the most important steps, because it is going to frame all of our Minimum Viable Trials.
 
 
 **Length:** 1-4 Sentences

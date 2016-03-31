@@ -7,6 +7,8 @@ These are questions that you should be able to ask yourself while you are in the
 
 This is the most important rule.  In order to learn any part of the system or its behavior, you need to make the part or change that you are analyzing as small as possible.  
 
+MINIFICATION, MINIFICATION, MINIFICATION. This cannot be stated enough.  If you can make what you are trying to understand smaller.  If you can make the problem that you are trying to solve smaller.  If you can look for a solution that accomplishes less.  THEN you are infinitely closer to arriving at the answer that you are looking for.
+
 ## Have we exhausted our diagnostic tools to understand what is going wrong?
 
 The computer **wants** to help you.  But in order to understand what the computer is telling you, you have to use diagnostics.  Once you are skilled with diagnostic tools, your stuck and bug problems may just melt away...

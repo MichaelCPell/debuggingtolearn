@@ -1,4 +1,6 @@
-# The Scientific Method Theory
+# Theory Behind The Scientific Method
+
+This section discusses the theory behind the Scientific Method as it applies to our mission here, which is learning how to better communicate with the computer while programming.
 
 ## State Your Goal
 

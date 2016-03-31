@@ -1,13 +1,15 @@
 # Introduction 
 
-When we've exhausted all other options: the docs don't make sense, the tutorials don't seem to work, Stack Overflow does not have any of the answers, and no one is going to help us, we only have one choice.  We have to ask the machine itself.  This can be a dreary place.  But it need not be, it can be the most exciting time of all, when we get to use all of the parts of our higher faculties to discover new knowledge and best of all we are doing it ourselves.  In this book I will teach you how to manage the conversation  between you and your computer.
+When we've exhausted all other options: the docs don't make sense, the tutorials don't seem to work, Stack Overflow does not have any of the answers, and no one is going to help us, we only have one choice.  Get angry, grab our computers, and do something that we will instantly regret! 
 
-The code we want to have does not exist yet.  The knowledge we we need in order to write that code does exist, but it lives within the computer.  But the computer is worse than the sphinx when it comes to revealing its secrets.  Therefore we need the right tools, methods, and strategy in order to get leverage over the computer and make it tell us what we want to know.  
+No don't do it!  This is not the computer's fault.  You may feel like you are currently within the grasp of The Horror, but we have an ally in the most unexpected place.  We have to ask the machine itself for help.  This can be a dreary place.  But it need not be, it can be the most exciting time of all, when we get to use all of the parts of our higher faculties to discover new knowledge and best of all we are doing it ourselves.  In this book I will teach you how to manage the conversation  between you and your computer.
 
-But this is not Abu Ghraib, we cannot use force to make the computer tell us its secrets.  And this is not school, we cannot read the computer's secrets from the manuals.  If we could read the manuals we would probably not be stuck.  No, the only tool we have at our disposal is the same that the scientist uses in order to extract truth and understanding from the natural world: we must design experiments and make trials.
+The code we want to have does not exist yet.  The knowledge we we need in order to write that code does exist, but it lives within the computer.  But the computer is quite indifferent about your personal ambitions.  The computer is actively trying to reveal its secrets the same way the Grand Canyon is actively trying to tell a geologist how it was formed.  Therefore we need the right tools, methods, and strategy in order to get leverage over the computer and make it tell us what we want to know.  
+
+But this is not Abu Ghraib, we cannot use force to make the computer tell us its secrets.  And this is not school, we cannot read the computer's secrets from the manuals.  If we could read the manuals we would probably not be stuck.  No, the only tool we have at our disposal is the same that the scientist uses in order to extract truth and understanding from the natural world: we must design experiments and make trials to test our theories.
 
 
-The Scientific Method Applied to Learning Software Systems.
+The Scientific Method Applied to Software Systems.
 
 
 ## This book is targeted at intermediate learners
